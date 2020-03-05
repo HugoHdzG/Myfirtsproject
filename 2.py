@@ -1,0 +1,12 @@
+Hola = input ('¿Hola como te llamas?')
+print('Hola Hugo')
+Edad = input ('¿Cual es tu edad?')
+print ('Ya eres mayor de edad Hugo')
+Color= input ('¿Cual es tu color favorito?')
+print('Genial ese es un gran color')
+Animales = input('¿Te gustan los animales?')
+Mascota =('¿Tienes algumascota?')
+print= ('¿Como se llama tu perro?')
+print= ('Que bonito nombre')
+print=('Gracias Hugo me dio mucho gusto conocerte, adios.')
+
